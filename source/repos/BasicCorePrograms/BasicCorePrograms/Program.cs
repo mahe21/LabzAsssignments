@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            LeapYr.LeapYear();
+            int num = int.Parse(Console.ReadLine());
+            Powerof2.PowerOfTwo(num);
         }
     }
 }
