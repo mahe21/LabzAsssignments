@@ -36,11 +36,11 @@ namespace LineComparison
             }
             else if (length > Length1)
             {
-                Console.WriteLine("Length of line1 is greater");
+                Console.WriteLine("line1 is greater");
             }
             else
             {
-                Console.WriteLine("Length of Line2 is greater");
+                Console.WriteLine("Line2 is greater");
             }
 
 
